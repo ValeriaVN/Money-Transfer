@@ -7,15 +7,15 @@
 На тестирование затрачено: <1 час>
 
 В результате тестирования выявлены следующие дефекты:
-* <https://github.com/ValeriaVN/Money-Transfer/issues/1#issue-1021726097>
+* [Не верно считается итоговая сумма на счете клиента после перевода денежных средств](<https://github.com/ValeriaVN/Money-Transfer/issues/1#issue-1021726097>)
 
 ## Описание процесса тестирования
 
 Введены тестовые данные.
-В качестве тестовых данных использовались данные <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md>:
+В качестве тестовых данных использовались [данные](<https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md>):
 * <Необходимо вычислить сумму текущиего баланса счёта клиента и поступивших на счет денег. Ожидаемый результат 2_500_000_000>
 
 Тестирование производилось в следующем окружении:
 * <Windows 10 Pro>
-* <версия Java 11>
+* <Версия Java 8 update 51 (build 1.8.0_51-b16)>
 * IntelliJ IDEA
